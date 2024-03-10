@@ -4030,7 +4030,7 @@ const List<Country> countries = [
     code: "MG",
     dialCode: "261",
     minLength: 9,
-    maxLength: 9,
+    maxLength: 10,
   ),
   Country(
     name: "Malawi",
